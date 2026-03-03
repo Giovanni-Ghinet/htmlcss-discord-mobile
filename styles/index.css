@@ -12,12 +12,53 @@ body {
     outline: 1px solid red;
 }
 
+/* background */
+
 .bg-primario{
    background-color: #191d7b;
 }
+
+/* imgs */
 
 .primo-banner{
     position: center;
     width: 100%;
     height: 100%;
+}
+
+/* card */
+
+.card-section{
+    margin: 20px 0 auto;
+    padding: 10px 20px;
+    text-align: center;
+    box-sizing: border-box;
+    
+    
+}
+
+/* font */
+
+.mod-h1{
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.font-DM-sans> {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+
+.font-Sigmar {
+  font-family: "Sigmar", sans-serif;
+  
+  font-style: normal;
+}
+
+/* utility */
+
+.text-white{
+    color: white;
 }
