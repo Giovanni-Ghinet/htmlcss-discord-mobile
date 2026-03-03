@@ -16,6 +16,7 @@ body {
 
 .bg-primario{
    background-color: #191d7b;
+   padding-bottom: 15px ;
 }
 
 /* imgs */
@@ -32,6 +33,22 @@ body {
     height: 100%;
     border-radius: 35px;
     margin-top: 20px;
+}
+
+.img-badge-cube{
+    position: absolute;
+    top: 0;
+    left: 50px;
+    translate: 10% -50%;
+    width: 100px;
+}
+
+.img-badge-occhi{
+    position: absolute;
+    top: 0;
+    left: 50px;
+    translate: 10% -50%;
+    width: 100px;
 }
 /* card */
 
