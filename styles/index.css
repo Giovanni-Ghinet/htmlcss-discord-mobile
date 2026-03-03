@@ -12,3 +12,12 @@ body {
     outline: 1px solid red;
 }
 
+.bg-primario{
+   background-color: #191d7b;
+}
+
+.primo-banner{
+    position: center;
+    width: 100%;
+    height: 100%;
+}
