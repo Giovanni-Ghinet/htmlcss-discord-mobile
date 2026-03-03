@@ -31,6 +31,7 @@ body {
     width: 100%;
     height: 100%;
     border-radius: 35px;
+    margin-top: 20px;
 }
 /* card */
 
@@ -39,6 +40,8 @@ body {
     padding: 40px 30px 10px 30px;
     text-align: center;
     box-sizing: border-box;
+    position: relative;
+    line-height: 1;
 }
 
 .card-section-1{
@@ -46,6 +49,8 @@ body {
     border-radius: 35px;
     box-sizing: border-box;
     padding: 70px 40px;
+    position: relative;
+    line-height: 1;
 }
 /* font */
 
@@ -56,6 +61,7 @@ body {
 
 .grassetto-p{
     font-weight: 600;
+    margin-top: 20px;
 }
 
 .grassetto-button{
@@ -65,13 +71,12 @@ body {
 .font-DM-sans> {
   font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
-  
+  font-weight: weight;
   font-style: normal;
 }
 
 .font-Sigmar {
   font-family: "Sigmar", sans-serif;
-  
   font-style: normal;
 }
 
