@@ -33,15 +33,23 @@ body {
     padding: 40px 30px 10px 30px;
     text-align: center;
     box-sizing: border-box;
-    
-    
 }
 
+.card-section-1{
+    margin: 50px;
+    border-radius: 35px;
+    box-sizing: border-box;
+    padding: 70px 40px;
+}
 /* font */
 
 .mod-h1{
     text-transform: uppercase;
     font-weight: 900;
+}
+
+.grassetto-p{
+    font-weight: 600;
 }
 
 .font-DM-sans> {
@@ -61,6 +69,10 @@ body {
 
 .text-white{
     color: white;
+}
+
+.color-section{
+    background-color: #5D64D1;
 }
 
 /* bottoni */
