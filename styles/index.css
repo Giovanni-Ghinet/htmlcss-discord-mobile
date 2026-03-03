@@ -1,0 +1,14 @@
+/* Reset del CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Stile Generale */
+
+body {
+    width: 512px;
+    outline: 1px solid red;
+    font-family: "Roboto", sans-serif;
+}
